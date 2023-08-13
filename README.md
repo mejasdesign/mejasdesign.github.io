@@ -21,6 +21,14 @@ Team members and info are in '_config.yml'
 
 Images are in '/img/team/'
 
+For resizing of images : https://imageresizer.com/
+
+thumbnail size :
+width : 400
+height : 289
+
+background color : #a27e7e
+
 
 # Demo
 
