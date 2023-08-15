@@ -25,7 +25,7 @@ for local deployment : `bundle exec jekyll serve`
 
 For resizing of images : https://imageresizer.com/
 
-For watermarking images : https://watermarkly.com/
+For watermarking images : https://watermarkly.com/ , https://watermark.ws/
 
 thumbnail size :
 
