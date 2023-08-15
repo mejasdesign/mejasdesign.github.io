@@ -1,0 +1,15 @@
+---
+title: Independence
+subtitle: Colors of Independence
+layout: default
+modal-id: 1
+date: 2023-08-15
+img: 01.jpg
+thumbnail: 01-thumbnail.jpg
+alt: image-alt
+project-date: Aug 2023
+client: Self
+category: Craft
+description: Cheers to the colors of Independence
+
+---

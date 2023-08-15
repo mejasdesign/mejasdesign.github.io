@@ -25,12 +25,16 @@ for local deployment : `bundle exec jekyll serve`
 
 For resizing of images : https://imageresizer.com/
 
+For watermarking images : https://watermarkly.com/
+
 thumbnail size :
 
 width : 400
 height : 289
 
 background color : #a27e7e
+
+font used : Kaushan Script
 
 
 ### Theme Demo
